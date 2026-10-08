@@ -1,0 +1,9 @@
+{
+  "require_permissions": true,
+  "device_owner_mode": true,
+  "kiosk_mode": true,
+  "remote_lock": true,
+  "remote_unlock": true,
+  "per_device_pairing": true,
+  "visible_status": true
+}
